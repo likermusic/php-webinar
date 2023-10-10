@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Zona Pro";
+  src: url("ZonaPro-Bold.eot");
+  src: local("Zona Pro Bold"), local("ZonaPro-Bold"),
+    url("ZonaPro-Bold.eot?#iefix") format("embedded-opentype"),
+    url("ZonaPro-Bold.woff2") format("woff2"),
+    url("ZonaPro-Bold.woff") format("woff"),
+    url("ZonaPro-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Zona Pro";
+  src: url("ZonaPro-Black.eot");
+  src: local("Zona Pro Black"), local("ZonaPro-Black"),
+    url("ZonaPro-Black.eot?#iefix") format("embedded-opentype"),
+    url("ZonaPro-Black.woff2") format("woff2"),
+    url("ZonaPro-Black.woff") format("woff"),
+    url("ZonaPro-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
